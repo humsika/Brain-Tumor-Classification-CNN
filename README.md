@@ -9,7 +9,7 @@ This project presents a **comparison and analysis of various Deep Learning (DL) 
 The proposed model achieves an **overall accuracy of 90%**, demonstrating its effectiveness in multi-class brain tumor classification.
 
 ## ✅ Demo  
-[Include demo link if available]
+![Brain Tumor Classification](https://github.com/humsika/Brain-Tumor-Classification-CNN/blob/main/Application%20SS.jpg)
 
 ---
 
